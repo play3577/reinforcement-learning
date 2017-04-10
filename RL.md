@@ -627,3 +627,50 @@ Incomplete
 13.7 Policy Parameterization for Continuous Actions
 ------
 Incomplete
+
+14 Psychology
+======
+
+15 Neuroscience
+======
+
+16 Applications and Case Studies
+======
+
+16.1 TD-Gammon
+------
+
+![](../master/RL_png/image198.png?raw=true)
+
+three-ply search
+
+![](../master/RL_png/image199.png?raw=true)
+
+Reference:
+* 1995 Temporal difference learning and TD-Gammon.pdf
+
+16.2 Samuel's Checkers Player
+------
+Reference:
+* 1969 Some Studies in Machine Learning Using the Game of Checkers.pdf
+
+16.6 Human-Level Video Game Play
+------
+DQN, gradient-descent form of Q-learning
+* https://sites.google.com/a/deepmind.com/dqn
+* https://github.com/Kaixhin/Atari
+* https://github.com/songrotek/DQN-Atari-Tensorflow
+* 2013.10 Playing Atari with Deep Reinforcement Learning.pdf
+* 2015.02 Human-level control through deep reinforcement learning.pdf
+* 2014 Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning.pdf
+* 2015.10 Deep Reinforcement Learning with Double Q-learning.pdf
+* 2016.04 Dueling Network Architectures for Deep Reinforcement Learning.pdf
+* 2016.06 Asynchronous Methods for Deep Reinforcement Learning.pdf
+
+16.7 Mastering the Game of Go
+------
+
+Reference:
+* 2015 Better Computer Go Player with Neural Network and Long-term Prediction.pdf
+* 2015 Move Evaluation in Go Using Deep Convolutional Neural Networks.pdf
+* 2016 Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf
