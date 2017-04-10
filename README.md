@@ -1,4 +1,4 @@
-notes for "Reinforcement Learning: An Introduction, 2016sep"
+Notes for "Reinforcement Learning: An Introduction"
 ======
 * [RL.md](../master/RL.md)
 
