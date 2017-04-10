@@ -76,3 +76,6 @@
 RMSprop:
 * http://blog.csdn.net/majordong100/article/details/51428642
 
+DeepMind:
+* https://deepmind.com/
+* 
