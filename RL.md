@@ -1,6 +1,11 @@
 Reinforcement Learning: An Introduction
 =======
-Reinforcement Learning 2016sep.pdf
+
+Author: Richard S. Sutton and Andrew G. Barto
+
+PDF: [Reinforcement Learning 2016sep.pdf](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf)
+
+Website: http://incompleteideas.net/sutton/index.html
 
 Contents
 ------
