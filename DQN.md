@@ -42,9 +42,9 @@
 
 2016.06 Asynchronous Methods for Deep Reinforcement Learning.pdf
 ------
-![](../master/RL_png/image217.png?raw=true)
-
 ![](../master/RL_png/image218.png?raw=true)
+
+![](../master/RL_png/image217.png?raw=true)
 
 ![](../master/RL_png/image219.png?raw=true)
 
