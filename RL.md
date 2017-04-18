@@ -399,7 +399,6 @@ Reference:
 
 * 2006 Modiﬁcation of UCT with Patterns in Monte-Carlo Go.pdf
 * 2009 Reinforcement Learning and Simulation-Based Search in Computer Go.pdf
-* 2011 New Heuristics for Monte Carlo Tree Search Applied to the Game of Go.pdf
 
 Part II: Approximate Solution Methods
 ======
