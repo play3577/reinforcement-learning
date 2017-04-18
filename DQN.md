@@ -78,4 +78,3 @@ RMSprop:
 
 DeepMind:
 * https://deepmind.com/
-* 
